@@ -24,4 +24,10 @@ A Cross-platform  app that was created by Superapps with flutter for streaming m
 the app is not available for now to download but we are working as fast as we can to build a stable version.
 in case you cant to just try the beta out just contact us
 
+
+## Demo | WebApp
+you can test the web-app from [**Here**](https://cimaaflam-9d47c.firebaseapp.com/#/) .
+
+    The web app contains a lot of bugs but we are working on fixing them and migrating to the web version
+
 Copyright © 2020 All Right Reserved for Super Apps.
