@@ -14,7 +14,7 @@ An android app that was created by Superapps for streaming movies, tv shows and 
 
 ## Sources
 -[Movs4u](https://www.mvs4u.org/) for the movies and tv-shows
--[XsAnime](https://www.mvs4u.org/) for the anime (BETA)
+-[XsAnime](https://www.xsanime.com/) for the anime (BETA)
 -[Shqqaa](https://www.shqqaa.com/) for the Manga (BETA) (still working on a reader)
 
 Copyright © 2020 All Right Reserved for Super Apps.
