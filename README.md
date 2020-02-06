@@ -4,7 +4,7 @@
 A Cross-platform  app that was created by Superapps with flutter for streaming movies, tv shows and anime/manga with Arabic subtitle
 ## Screenshots
 
-| [Home screen]| [Movie/Tv detail]| [Episode list]|
+| Home screen| Movie/Tv detail| Episode list|
 | ------------- | ------------- | ------------- |
 | <img src="https://github.com/jakcal/APPS/raw/master/img/Screenshot_1580949481.png" width="270" height="480"> | <img src="https://github.com/jakcal/APPS/raw/master/img/Screenshot_1580949547.png" width="270" height="480"> | <img src="https://github.com/jakcal/APPS/raw/master/img/Screenshot_1580949552.png" width="270" height="480"> |
 
