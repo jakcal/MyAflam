@@ -23,7 +23,7 @@ A Cross-platform  app that was created by Superapps and is a part of the YAM pro
 
 ## Download
 the app is not available for now to download but we are working as fast as we can to build a stable version.
-in case you cant to just try the beta out just contact us
+in case you want to just try the beta out. just contact us
 
 
 ## Demo | WebApp
